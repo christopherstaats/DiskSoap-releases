@@ -15,8 +15,8 @@ Get the latest installer from
 ## Install
 
 1. Open the DMG and drag **Disk Soap** into Applications.
-2. First launch: right-click **Disk Soap** → **Open** → **Open** (one-time
-   Gatekeeper step — the build is ad-hoc signed and not notarized).
+2. Launch Disk Soap. The download is signed and notarized, so macOS
+   Gatekeeper verifies it automatically — no warnings.
 
 Requires macOS 14 (Sonoma) or later. Full Disk Access is recommended for
 scan coverage outside your home folder.
